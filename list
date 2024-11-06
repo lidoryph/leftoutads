@@ -38,3 +38,14 @@
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 https://browser.sentry-cdn.com
+0.0.0.0 https://ads.facebook.com
+0.0.0.0 https://advertising.twitter.com
+0.0.0.0 https://widgets.pinterest.com
+0.0.0.0 https://metrics1.data.hicloud.com
+0.0.0.0 https://metrics5.data.hicloud.com 
+
